@@ -1,5 +1,4 @@
 #Week 4 Project
-##All rights are reserved by original author or authors
 
 ##Service Start Sequence
 1. docker-compose up
